@@ -1,0 +1,27 @@
+#include<stdio.h>
+int main(){
+	
+	int row,i,j,k,h;
+	printf("satir numarasi girin; ");
+	scanf("%d\n" , &row);
+	for(i=0; i<=row; i++)
+	{
+		for(j=row; j<=i; j--)
+		{
+			printf("?");
+		}
+		{ 
+		for(j=0; j<=i; j++){
+			printf("%d" , i);
+		}
+		k = i-1;
+		for(h=k; h>=1; h--)
+		{
+			printf("%d" , h);
+		}
+		printf("\n");
+		
+	}
+}
+	return 0;
+}
