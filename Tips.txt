@@ -1,0 +1,16 @@
+MADDE 1; double kokdelta = sqrt(delta); sqrt fonksiyonu bir sayının karekökönü almak için kullanılan fonksiyondur 
+MADDE 2; \t yatay sekme imleci sonraki sekme noktasına kaydırır
+
+
+MADDE 3; 
+\a uyarıdır ve bir ses çıkarır
+#include <stdio.h>
+
+int main() {
+    printf("Bu bir uyarı sesi oluşturacak: \a\n");
+    return 0;
+}
+
+MADDE 4; \\ bu ifade ters eğik çizgi oluşturur ve karışmasını önler 
+MADDE 5;
+
