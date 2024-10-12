@@ -12,5 +12,13 @@ int main() {
 }
 
 MADDE 4; \\ bu ifade ters eğik çizgi oluşturur ve karışmasını önler 
-MADDE 5;
+MADDE 5; 
+#include <locale.h>
+Yeşil tarafa yazılan kütüphaneyi ata
+setlocale(LC_ALL,"turkish")
+kod olarakta bunu yaz tertemiz ama ; ile kapatmayı unutma :)
+
+
+
+MADDE 6;
 
