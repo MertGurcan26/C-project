@@ -20,5 +20,9 @@ kod olarakta bunu yaz tertemiz ama ; ile kapatmayı unutma :)
 
 
 
-MADDE 6;
-
+MADDE 6; int(%d) , float(%f) , string(%s)
+//string değişkeni 
+char * bugun = "pazartesi";
+char * yarin = "sali"; 
+şeklinde atanır
+printf("bugun gunlerden %s\n" , bugun); /* çıktı = bugun gunlerden pazartesi*/
