@@ -1,0 +1,27 @@
+#include <stdio.h>
+#include<locale.h>
+#include <ctype.h>
+
+int main()
+{
+
+
+int sayi1 = 5;
+int sayi2 = 5;
+
+int ionce_artir_sonuc = ++sayi1;//önce 1 arttır sonra atama yap
+int isonra_artir_sonuc = sayi1++; //önce ataa yap sonra bir arttır
+
+
+
+int ionce_eksilt_sonuc = --sayi1;//önce 1 eksilt sonra atama yap
+int isonra_eksilt_sonuc = sayi1--;//önce atama yap sonra bir eksilt
+
+printf("sayi1 = %d " , sayi1);
+}
+
+
+
+
+
+
