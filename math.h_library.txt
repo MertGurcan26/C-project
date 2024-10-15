@@ -1,0 +1,15 @@
+acos = arcosinus 
+asin = arcsinus
+atan = arctanjant
+atan2 = 2 parametreli arctanjant 
+ceil = x'i kendinden büyük ilk tamsayıya yuvarlar 
+cos = cosinus
+exp(double x) = üstel fonksiyon , e^x hesaplaması 
+fabs = mutlak değer 
+floor = xi kendinden küçük ilk tamsayıya yuvarlar 
+sin = sin 
+sqrt = karekök
+pow(x,y) = x^y , x üzeri y 
+log = naturel e tabanında logarithma 
+log10 = 10 tabanında logaritma alır 
+fmod = x / y işleminin kalanını bulur 
