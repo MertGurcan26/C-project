@@ -38,7 +38,7 @@ int main()
   while(1){
         if(scanf("%d %d" , &sayi1 , &sayi2)==2 && sayi1>0 && sayi2 > 0){//iki sayi olursa dogrulama 2ye esitlenir
        //tam sayi girilmesi icin yapilan bir islemdir
-                printf("Ebob =  %d " , okekbul(sayi1,sayi2));
+                printf("Ekok =  %d " , okekbul(sayi1,sayi2));
   break;
 
    }
